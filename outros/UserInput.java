@@ -22,4 +22,12 @@ public class UserInput {
         } while (inputValue <= 0);
         return inputValue;
     }
+
+    public static double multipleOf(Scanner sc, double multiple) {
+        double inputValue;
+        do {
+            inputValue = sc.nextDouble();
+        } while (inputValue % multiple != 0);
+        return inputValue;
+    }
 }
