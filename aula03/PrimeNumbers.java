@@ -16,6 +16,8 @@ public class PrimeNumbers {
         }
 
         System.out.printf("A soma dos números primos até %d é %d.\n", number, sum);
+
+        sc.close();
     }
 
     static  boolean isPrime(int num) {
