@@ -10,4 +10,4 @@ _É preciso tomar em atenção que estas são apenas sugestões, e não soluçõ
 
 - [Prática 2](https://github.com/diogotavc/ua-deti-poo/tree/main/aula02) - Introdução à linguagem Java
 
-- [Prática 3](https://github.com/diogotavc/ua-deti-poo/tree/main/aula03) - Controlo de fluxo e funções **_incompleto_**
+- [Prática 3](https://github.com/diogotavc/ua-deti-poo/tree/main/aula03) - Controlo de fluxo e funções
