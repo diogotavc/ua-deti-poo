@@ -15,6 +15,14 @@ public class UserInput {
         return inputValue;
     }
 
+    public static int getIntBetween(Scanner sc, int minValue, int maxValue) {
+        int inputValue;
+        do {
+            inputValue = sc.nextInt();
+        } while (inputValue > maxValue || inputValue < minValue);
+        return inputValue;
+    }
+
     public static double getPositiveNumber(Scanner sc) {
         double inputValue;
         do {
